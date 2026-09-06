@@ -95,7 +95,7 @@ She wants to determine what areas have already been studied and whether importan
 
 ## AI Intervention Features
 
-Maya looks beyond the broad label “AI.”
+Maya looks beyond the broad label **“AI.”**
 
 She asks what **types of AI technologies** were used, what features they had, what role they played in learning, and whether different AI technologies were simply grouped together.
 
@@ -287,7 +287,7 @@ Her mentor asks her to go one step further.
 
 ---
 
-### Smith et al. (2022)
+## Smith et al. (2022)
 
 Smith et al. (2022) examined the relationship between **AI-powered learning technologies and student learning outcomes**. Their review provided evidence about the overall effectiveness of AI, but provided limited information about the **specific features or functions of the AI technologies** and how these characteristics may influence learning outcomes.
 
@@ -297,7 +297,7 @@ Maya will examine the characteristics and functions of AI-powered learning techn
 
 ---
 
-### Chen et al. (2023)
+## Chen et al. (2023)
 
 Chen et al. (2023) focused on **AI tutoring systems** and examined their effects across different educational settings. Their review provided useful evidence about AI-supported tutoring, but its focus was primarily on tutoring systems rather than the broader range of AI-powered learning technologies.
 
@@ -307,7 +307,7 @@ Maya will examine a broader range of AI-powered learning technologies and compar
 
 ---
 
-### Garcia et al. (2024)
+## Garcia et al. (2024)
 
 Garcia et al. (2024) examined **generative AI in education** and described the growing evidence surrounding tools such as AI chatbots. However, the review did not provide a comprehensive quantitative examination of how **instructional and contextual factors** influence the effectiveness of these technologies.
 
@@ -317,7 +317,7 @@ Maya will examine instructional and contextual factors that may help explain why
 
 ---
 
-### Lee et al. (2024)
+## Lee et al. (2024)
 
 Lee et al. (2024) conducted a meta-analysis of **AI-assisted learning** and found positive effects on student learning outcomes. However, their analysis provided limited attention to the relationship between **AI characteristics, theoretical explanations, and moderators**.
 
@@ -399,16 +399,6 @@ She has learned an important lesson:
 
 > **A research gap is not simply something that has never been studied. It can also be something that has been studied, but not yet adequately synthesized, explained, compared, or examined from the perspective your research question requires.**
 
-### 🎓 Step 1 Complete
-
-Maya can now move to **Step 2: Develop the Research Question**.
-
-Before she does, she should be able to answer three things:
-
-1. **What do we already know?**
-2. **What is still missing?**
-3. **Why is a new review justified?**
-
 ---
 
 # 📝 Assessment
@@ -417,307 +407,489 @@ Before she does, she should be able to answer three things:
 
 ### Question 1
 
-What should Maya do before searching for individual primary studies?
+**What should Maya do before searching for individual primary studies?**
 
-A. Search only for randomized controlled trials
-B. Identify existing systematic reviews, scoping reviews, and meta-analyses
-C. Search only studies published during the previous year
-D. Select studies with statistically significant findings
+**A.** Search only for randomized controlled trials.
 
-### Question 2
+**B.** Identify existing systematic reviews, scoping reviews, and meta-analyses.
 
-Does Maya need to find a previous review asking exactly the same research question?
+**C.** Search only studies published during the previous year.
 
-A. Yes
-B. No
-C. Only if she plans to conduct a meta-analysis
-D. Only if the review was published recently
-
-### Question 3
-
-What is Maya ultimately trying to identify?
-
-A. The most frequently cited article
-B. The largest available dataset
-C. An important research or evidence gap
-D. The most statistically significant study
-
-### Question 4
-
-Which is the better starting point for a systematic review?
-
-A. “I want to conduct a meta-analysis.”
-B. “There is an important evidence gap that needs to be investigated.”
-C. “I need to publish a paper.”
-D. “I need to find a statistically significant result.”
-
-### Question 5
-
-Which three questions should guide Maya's initial review of the literature?
-
-A. Who published it, where was it published, and how many citations does it have?
-B. What is already known, what has been examined, and what remains unclear or unexplored?
-C. Which study is newest, largest, and most statistically significant?
-D. Which database contains the most records?
-
-### Question 6
-
-Maya finds ten previous reviews on AI and learning. What should she conclude?
-
-A. She cannot conduct another review
-B. She should copy the most recent review
-C. She should determine whether an important gap remains
-D. She should exclude all studies included in those reviews
-
-### Question 7
-
-What is Maya using PRISMA 2020 for at this stage?
-
-A. To calculate effect sizes
-B. To examine how previous systematic reviews were reported
-C. To remove duplicate studies
-D. To conduct her meta-analysis
-
-### Question 8
-
-What do PRISMA 2020 Items 3–4 help Maya examine?
-
-A. Rationale and objectives
-B. Effect sizes and confidence intervals
-C. Duplicate records
-D. Risk-of-bias scores
-
-### Question 9
-
-Why should Maya examine limitations reported by previous reviews?
-
-A. To copy their limitations
-B. To identify areas that may remain unresolved and contribute to a research gap
-C. To exclude studies from her review
-D. To determine which database to search
-
-### Question 10
-
-What should Maya examine across previous reviews?
-
-A. Only publication year
-B. Only sample size
-C. Populations, interventions, outcomes, moderators, methods, theory, and limitations
-D. Only statistically significant findings
-
-### Question 11
-
-Why might Maya distinguish between an AI system used for automated feedback and one used as a conversational tutor?
-
-A. They necessarily use different databases
-B. Different AI functions may operate differently and produce different effects
-C. One must be excluded
-D. They cannot be included in the same review
-
-### Question 12
-
-Why isn't it enough for Maya to record only the name of a theoretical framework?
-
-A. She needs to understand how the theory was actually used
-B. Theoretical frameworks cannot be used in systematic reviews
-C. Theory determines the sample size
-D. Theory replaces the research question
-
-### Question 13
-
-A previous review included studies only through 2021, while many relevant studies appeared afterward. Why is this important?
-
-A. The older review must automatically be discarded
-B. The evidence base may have changed
-C. New studies cannot be included
-D. The original review was necessarily invalid
-
-### Question 14
-
-Why might the emergence of a new AI technology justify reconsidering an existing evidence base?
-
-A. New technologies may not have been represented in previous reviews
-B. New technologies are always more effective
-C. Older studies automatically become irrelevant
-D. PRISMA requires every new technology to be reviewed
-
-### Question 15
-
-Why is a review-comparison table useful?
-
-A. It automatically identifies the research gap
-B. It allows reviews to be compared systematically using common criteria
-C. It replaces reading the reviews
-D. It calculates the pooled effect
-
-### Question 16
-
-Why should Maya identify reviews using author and publication year?
-
-A. To make the review appear more recent
-B. To clearly identify and trace each source
-C. To determine study quality
-D. To calculate effect sizes
-
-### Question 17
-
-What does Maya discover when previous reviews examine different populations, technologies, and outcomes?
-
-A. The evidence base is diverse, and important areas may remain inadequately synthesized
-B. Previous reviews cannot be used
-C. She should exclude all previous reviews
-D. Only one population should be studied
-
-### Question 18
-
-What potential gap does Maya identify when previous reviews group different AI technologies together?
-
-A. A gap in the number of databases searched
-B. A gap in examining specific AI features or functions
-C. A gap in publication years
-D. A gap in sample size
-
-### Question 19
-
-If previous reviews examine educational level but not instructional design or learning context, what could these factors potentially become?
-
-A. Search databases
-B. Moderators
-C. Publication types
-D. Effect sizes
-
-### Question 20
-
-What theoretical gap does Maya identify?
-
-A. Previous reviews may not consistently use theory to explain differences in effectiveness or guide moderator selection
-B. Previous reviews contain too many theories
-C. Theory cannot be used to study AI
-D. Theoretical frameworks determine whether studies are eligible
-
-### Question 21
-
-What should Maya do when describing the literature gap?
-
-A. Say that nobody has studied AI
-B. List only the titles of previous reviews
-C. Explain what previous reviews contributed and what her study will add
-D. Ignore findings that do not support her proposed study
-
-### Question 22
-
-How does Maya's research question become more specific?
-
-A. From “Does AI exist?” to “How many AI studies exist?”
-B. From “Does AI improve student learning?” to examining which AI characteristics and learner, instructional, and contextual factors influence effectiveness
-C. From “Does AI improve learning?” to “Which database should I use?”
-D. From “Does AI improve learning?” to “Which article has the highest citation count?”
-
-### Question 23
-
-Why should Maya compare several previous reviews rather than rely on only one?
-
-A. Different reviews examine different technologies, populations, settings, outcomes, and moderators
-B. One review can never be read carefully
-C. Several reviews automatically prove a research gap
-D. PRISMA requires multiple reviews
-
-### Question 24
-
-Why should Maya consider studies published after previous reviews?
-
-A. New studies and technologies may extend or change the existing evidence base
-B. Older studies cannot be used in systematic reviews
-C. New studies are always higher quality
-D. Publication date determines effect size
-
-### Question 25
-
-What is the main opportunity for Maya's new review?
-
-A. To repeat one previous review exactly
-B. To avoid reading primary studies
-C. To bring existing evidence together while addressing important gaps
-D. To guarantee a positive result
-
-### Question 26
-
-What are the two main purposes of Maya's study?
-
-A. To identify databases and remove duplicates
-B. To synthesize evidence about effectiveness and examine factors that may explain variation in effectiveness
-C. To calculate p-values and publish results
-D. To identify authors and count citations
-
-### Question 27
-
-Which statement best describes Maya's overall goal?
-
-A. “Is AI popular in education?”
-B. “How many AI studies have been published?”
-C. “What works, for whom, under what conditions, and why?”
-D. “Which database contains the most AI studies?”
-
-### Question 28
-
-Which statement best describes a research gap?
-
-A. Something that has never been studied under any circumstances
-B. An important question or area that remains unanswered, unclear, underexamined, or inadequately synthesized
-C. Any topic with fewer than ten studies
-D. Any topic without a meta-analysis
-
-### Question 29
-
-Which statement best describes why Maya's new review may be justified?
-
-A. No one has ever studied AI
-B. Previous reviews provide important evidence, but important aspects may remain insufficiently synthesized or explained
-C. Maya wants to conduct a meta-analysis
-D. New research is always automatically necessary
-
-### Question 30
-
-What is the most important lesson Maya learns in Step 1?
-
-A. A systematic review begins by choosing statistical software
-B. A systematic review should begin with an important evidence gap and a clear reason for a new synthesis
-C. Every previous review must be excluded
-D. A research gap means no previous research exists
+**D.** Select studies with statistically significant findings.
 
 ---
 
-# Answer Key
+### Question 2
+
+**Does Maya need to find a previous review asking exactly the same research question?**
+
+**A.** Yes.
+
+**B.** No.
+
+**C.** Only if she plans to conduct a meta-analysis.
+
+**D.** Only if the review was published recently.
+
+---
+
+### Question 3
+
+**What is Maya ultimately trying to identify?**
+
+**A.** The most frequently cited article.
+
+**B.** The largest available dataset.
+
+**C.** An important research or evidence gap.
+
+**D.** The most statistically significant study.
+
+---
+
+### Question 4
+
+**Which is the better starting point for a systematic review?**
+
+**A.** “I want to conduct a meta-analysis.”
+
+**B.** “There is an important evidence gap that needs to be investigated.”
+
+**C.** “I need to publish a paper.”
+
+**D.** “I need to find a statistically significant result.”
+
+---
+
+### Question 5
+
+**Which three questions should guide Maya's initial review of the literature?**
+
+**A.** Who published it, where was it published, and how many citations does it have?
+
+**B.** What is already known, what has been examined, and what remains unclear or unexplored?
+
+**C.** Which study is newest, largest, and most statistically significant?
+
+**D.** Which database contains the most records?
+
+---
+
+### Question 6
+
+**Maya finds ten previous reviews on AI and learning. What should she conclude?**
+
+**A.** She cannot conduct another review.
+
+**B.** She should copy the most recent review.
+
+**C.** She should determine whether an important gap remains.
+
+**D.** She should exclude all studies included in those reviews.
+
+---
+
+### Question 7
+
+**What is Maya using PRISMA 2020 for at this stage?**
+
+**A.** To calculate effect sizes.
+
+**B.** To examine how previous systematic reviews were reported.
+
+**C.** To remove duplicate studies.
+
+**D.** To conduct her meta-analysis.
+
+---
+
+### Question 8
+
+**What do PRISMA 2020 Items 3–4 help Maya examine?**
+
+**A.** Rationale and objectives.
+
+**B.** Effect sizes and confidence intervals.
+
+**C.** Duplicate records.
+
+**D.** Risk-of-bias scores.
+
+---
+
+### Question 9
+
+**Why should Maya examine limitations reported by previous reviews?**
+
+**A.** To copy their limitations.
+
+**B.** To identify areas that may remain unresolved and contribute to a research gap.
+
+**C.** To exclude studies from her review.
+
+**D.** To determine which database to search.
+
+---
+
+### Question 10
+
+**What should Maya examine across previous reviews?**
+
+**A.** Only publication year.
+
+**B.** Only sample size.
+
+**C.** Populations, interventions, outcomes, moderators, methods, theory, and limitations.
+
+**D.** Only statistically significant findings.
+
+---
+
+### Question 11
+
+**Why might Maya distinguish between an AI system used for automated feedback and one used as a conversational tutor?**
+
+**A.** They necessarily use different databases.
+
+**B.** Different AI functions may operate differently and produce different effects.
+
+**C.** One must be excluded.
+
+**D.** They cannot be included in the same review.
+
+---
+
+### Question 12
+
+**Why isn't it enough for Maya to record only the name of a theoretical framework?**
+
+**A.** She needs to understand how the theory was actually used.
+
+**B.** Theoretical frameworks cannot be used in systematic reviews.
+
+**C.** Theory determines the sample size.
+
+**D.** Theory replaces the research question.
+
+---
+
+### Question 13
+
+**A previous review included studies only through 2021, while many relevant studies appeared afterward. Why is this important?**
+
+**A.** The older review must automatically be discarded.
+
+**B.** The evidence base may have changed.
+
+**C.** New studies cannot be included.
+
+**D.** The original review was necessarily invalid.
+
+---
+
+### Question 14
+
+**Why might the emergence of a new AI technology justify reconsidering an existing evidence base?**
+
+**A.** New technologies may not have been represented in previous reviews.
+
+**B.** New technologies are always more effective.
+
+**C.** Older studies automatically become irrelevant.
+
+**D.** PRISMA requires every new technology to be reviewed.
+
+---
+
+### Question 15
+
+**Why is a review-comparison table useful?**
+
+**A.** It automatically identifies the research gap.
+
+**B.** It allows reviews to be compared systematically using common criteria.
+
+**C.** It replaces reading the reviews.
+
+**D.** It calculates the pooled effect.
+
+---
+
+### Question 16
+
+**Why should Maya identify reviews using author and publication year?**
+
+**A.** To make the review appear more recent.
+
+**B.** To clearly identify and trace each source.
+
+**C.** To determine study quality.
+
+**D.** To calculate effect sizes.
+
+---
+
+### Question 17
+
+**What does Maya discover when previous reviews examine different populations, technologies, and outcomes?**
+
+**A.** The evidence base is diverse, and important areas may remain inadequately synthesized.
+
+**B.** Previous reviews cannot be used.
+
+**C.** She should exclude all previous reviews.
+
+**D.** Only one population should be studied.
+
+---
+
+### Question 18
+
+**What potential gap does Maya identify when previous reviews group different AI technologies together?**
+
+**A.** A gap in the number of databases searched.
+
+**B.** A gap in examining specific AI features or functions.
+
+**C.** A gap in publication years.
+
+**D.** A gap in sample size.
+
+---
+
+### Question 19
+
+**If previous reviews examine educational level but not instructional design or learning context, what could these factors potentially become?**
+
+**A.** Search databases.
+
+**B.** Moderators.
+
+**C.** Publication types.
+
+**D.** Effect sizes.
+
+---
+
+### Question 20
+
+**What theoretical gap does Maya identify?**
+
+**A.** Previous reviews may not consistently use theory to explain differences in effectiveness or guide moderator selection.
+
+**B.** Previous reviews contain too many theories.
+
+**C.** Theory cannot be used to study AI.
+
+**D.** Theoretical frameworks determine whether studies are eligible.
+
+---
+
+### Question 21
+
+**What should Maya do when describing the literature gap?**
+
+**A.** Say that nobody has studied AI.
+
+**B.** List only the titles of previous reviews.
+
+**C.** Explain what previous reviews contributed and what her study will add.
+
+**D.** Ignore findings that do not support her proposed study.
+
+---
+
+### Question 22
+
+**How does Maya's research question become more specific?**
+
+**A.** From “Does AI exist?” to “How many AI studies exist?”
+
+**B.** From “Does AI improve student learning?” to examining which AI characteristics and learner, instructional, and contextual factors influence effectiveness.
+
+**C.** From “Does AI improve learning?” to “Which database should I use?”
+
+**D.** From “Does AI improve learning?” to “Which article has the highest citation count?”
+
+---
+
+### Question 23
+
+**Why should Maya compare several previous reviews rather than rely on only one?**
+
+**A.** Different reviews examine different technologies, populations, settings, outcomes, and moderators.
+
+**B.** One review can never be read carefully.
+
+**C.** Several reviews automatically prove a research gap.
+
+**D.** PRISMA requires multiple reviews.
+
+---
+
+### Question 24
+
+**Why should Maya consider studies published after previous reviews?**
+
+**A.** New studies and technologies may extend or change the existing evidence base.
+
+**B.** Older studies cannot be used in systematic reviews.
+
+**C.** New studies are always higher quality.
+
+**D.** Publication date determines effect size.
+
+---
+
+### Question 25
+
+**What is the main opportunity for Maya's new review?**
+
+**A.** To repeat one previous review exactly.
+
+**B.** To avoid reading primary studies.
+
+**C.** To bring existing evidence together while addressing important gaps.
+
+**D.** To guarantee a positive result.
+
+---
+
+### Question 26
+
+**What are the two main purposes of Maya's study?**
+
+**A.** To identify databases and remove duplicates.
+
+**B.** To synthesize evidence about effectiveness and examine factors that may explain variation in effectiveness.
+
+**C.** To calculate p-values and publish results.
+
+**D.** To identify authors and count citations.
+
+---
+
+### Question 27
+
+**Which statement best describes Maya's overall goal?**
+
+**A.** “Is AI popular in education?”
+
+**B.** “How many AI studies have been published?”
+
+**C.** “What works, for whom, under what conditions, and why?”
+
+**D.** “Which database contains the most AI studies?”
+
+---
+
+### Question 28
+
+**Which statement best describes a research gap?**
+
+**A.** Something that has never been studied under any circumstances.
+
+**B.** An important question or area that remains unanswered, unclear, underexamined, or inadequately synthesized.
+
+**C.** Any topic with fewer than ten studies.
+
+**D.** Any topic without a meta-analysis.
+
+---
+
+### Question 29
+
+**Which statement best describes why Maya's new review may be justified?**
+
+**A.** No one has ever studied AI.
+
+**B.** Previous reviews provide important evidence, but important aspects may remain insufficiently synthesized or explained.
+
+**C.** Maya wants to conduct a meta-analysis.
+
+**D.** New research is always automatically necessary.
+
+---
+
+### Question 30
+
+**What is the most important lesson Maya learns in Step 1?**
+
+**A.** A systematic review begins by choosing statistical software.
+
+**B.** A systematic review should begin with an important evidence gap and a clear reason for a new synthesis.
+
+**C.** Every previous review must be excluded.
+
+**D.** A research gap means no previous research exists.
+
+---
+
+# ✅ Answer Key
 
 | Question | Answer |
-| -------- | ------ |
-| 1        | **B**  |
-| 2        | **B**  |
-| 3        | **C**  |
-| 4        | **B**  |
-| 5        | **B**  |
-| 6        | **C**  |
-| 7        | **B**  |
-| 8        | **A**  |
-| 9        | **B**  |
-| 10       | **C**  |
-| 11       | **B**  |
-| 12       | **A**  |
-| 13       | **B**  |
-| 14       | **A**  |
-| 15       | **B**  |
-| 16       | **B**  |
-| 17       | **A**  |
-| 18       | **B**  |
-| 19       | **B**  |
-| 20       | **A**  |
-| 21       | **C**  |
-| 22       | **B**  |
-| 23       | **A**  |
-| 24       | **A**  |
-| 25       | **C**  |
-| 26       | **B**  |
-| 27       | **C**  |
-| 28       | **B**  |
-| 29       | **B**  |
-| 30       | **B**  |
+| -------: | :----: |
+|        1 |  **B** |
+|        2 |  **B** |
+|        3 |  **C** |
+|        4 |  **B** |
+|        5 |  **B** |
+|        6 |  **C** |
+|        7 |  **B** |
+|        8 |  **A** |
+|        9 |  **B** |
+|       10 |  **C** |
+|       11 |  **B** |
+|       12 |  **A** |
+|       13 |  **B** |
+|       14 |  **A** |
+|       15 |  **B** |
+|       16 |  **B** |
+|       17 |  **A** |
+|       18 |  **B** |
+|       19 |  **B** |
+|       20 |  **A** |
+|       21 |  **C** |
+|       22 |  **B** |
+|       23 |  **A** |
+|       24 |  **A** |
+|       25 |  **C** |
+|       26 |  **B** |
+|       27 |  **C** |
+|       28 |  **B** |
+|       29 |  **B** |
+|       30 |  **B** |
+
+---
+
+## 📁 Repository Structure
+
+```text
+step-1-identify-a-research-gap/
+│
+├── README.md
+│
+├── story/
+│   └── maya-identifies-the-research-gap.md
+│
+├── learning/
+│   ├── existing-evidence.md
+│   ├── prisma-check.md
+│   ├── review-comparison.md
+│   ├── literature-gap.md
+│   └── research-purpose.md
+│
+├── examples/
+│   └── review-comparison-table.md
+│
+└── assessment/
+    └── assessment.md
+```
+
+### Step 1 Complete
+
+**Maya has identified and justified a research gap.**
+
+She is now ready to move to:
+
+> **Step 2 — Develop the Research Question**
