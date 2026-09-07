@@ -892,4 +892,4 @@ step-1-identify-a-research-gap/
 
 She is now ready to move to:
 
-> **Step 2 — [Develop the Research Question](https://github.com/adnan-mayof/Develop-the-Research-Question/blob/main/README.md)**
+> **[Step 2 — Develop the Research Question](https://github.com/adnan-mayof/Develop-the-Research-Question/blob/main/README.md)**
